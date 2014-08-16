@@ -42,4 +42,9 @@ public class MainActivity extends Activity {
 	        
 	        startActivity(intent);
 	    }
+	 
+	 private void Priva() {
+		// TODO Auto-generated method stub
+
+	}
 	}

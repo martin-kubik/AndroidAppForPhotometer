@@ -11,13 +11,13 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:id="@+id/btn_simple"
-            android:text="Simple GraphsX" />
+            android:text="Simple Graphs" />
     
      <Button
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:id="@+id/btn_realtime"
-            android:text="Realtime GraphY" />
+            android:text="Realtime Graph" />
     
 </LinearLayout>
 </ScrollView>
